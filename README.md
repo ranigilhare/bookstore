@@ -2,7 +2,7 @@
 
 This is a simple app demonstrating React in Laravel and using Elasticsearch for a bookstore.
 
-Setup:
+## Setup:
 
 After cloning the project...
 - go to inside backend directory
