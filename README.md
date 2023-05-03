@@ -15,7 +15,7 @@ then run "composer install" and start the server by "php artisan serve"
 - go to frontend directory by cd bookstore/frontend
 then run "npm install" and start frontend "npm start"
 
-Now check the application.
+## Now check the application.
 
 1. Home page will open like:
 ![image](https://user-images.githubusercontent.com/87356238/235745795-4a08cc04-a7fd-4fee-b687-dd0da1ad7746.png)
